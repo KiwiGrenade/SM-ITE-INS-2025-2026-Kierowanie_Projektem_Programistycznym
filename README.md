@@ -8,8 +8,10 @@
 ### Prezentacja 1
 - Termin: 15.10.2025
 - Temat: Wzorce projektowe
+- Ocena: 4-/5
 
 ---
 ### Prezentacja 2
 - Termin: N/A
 - Temat: N/A
+- Ocena: N/A
