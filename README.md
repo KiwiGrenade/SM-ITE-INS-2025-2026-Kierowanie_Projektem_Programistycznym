@@ -12,6 +12,6 @@
 
 ---
 ### Prezentacja 2
-- Termin: N/A
-- Temat: N/A
-- Ocena: N/A
+- Termin: 10.11.2025
+- Temat: Mowa ciała
+- Ocena: 5-/5
